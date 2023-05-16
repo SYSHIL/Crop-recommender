@@ -9,7 +9,7 @@ Soil Fertility Calculation: The tool also provides a soil fertility calculator t
 # Installation
 To run the Crop Recommender and Soil Fertility Calculator locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/crop-recommender.git
+Clone the repository: git clone https://github.com/SYSHIL/crop-recommender.git
 Navigate to the project directory: cd crop-recommender
 Open the Crop_recommendation_p2.ipynb Jupyter notebook located in the models folder to explore the code and models used in the project.
 Note: Make sure you have Python 3.6 or higher installed on your system.
